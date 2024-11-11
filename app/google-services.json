@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053128178062",
+    "project_id": "empleados-prueba-99ef1",
+    "storage_bucket": "empleados-prueba-99ef1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053128178062:android:b91f35379e2354b2a68cdf",
+        "android_client_info": {
+          "package_name": "me.diegomelo.empleados"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM2Ym_QyILxgdqv-ZMf71wW70EXbYs3G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

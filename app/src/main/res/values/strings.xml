@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">empleados</string>
+    <string name="login">Inicio de sesión</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login2">Iniciar sesión</string>
+</resources>
